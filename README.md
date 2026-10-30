@@ -1,3 +1,4 @@
 # My Git Practice
 I am learning Git and GitHub
 This is my first change on practice branch
+Learning how to push changes from practice-branch
